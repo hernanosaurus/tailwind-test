@@ -1,0 +1,3 @@
+.base {
+  @apply p-4 rounded-tr-lg text-black border border-gray-100 bg-white w-full;
+}
